@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "builder": "^5.0.0",
-    "electron": "^38.1.0",
     "express": "^5.1.0",
     "mssql": "^11.0.1",
     "react": "^19.1.1",
